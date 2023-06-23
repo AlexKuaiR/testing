@@ -1,0 +1,16 @@
+---
+title: "class-jun-14"
+format: html
+editor: visual
+---
+
+```{r, echo = FALSE, message = FALSE}
+
+library(tidyverse)
+```
+
+
+```{r}
+library(dplyr)
+```
+
